@@ -78,3 +78,19 @@ Welcome to my professional space. I am Yakov, a QA Engineer specializing in comp
 </div>
 
 ---
+
+### Testing Artefacts
+
+<div>
+- [Testing theory](https://github.com/SamorodovY/theory) - Analysis of requirements and overview of testing methods, levels, and types.
+- [Test Design Techniques](https://github.com/SamorodovY/design) - Systematization of the testing process
+- [Testing documentation](https://github.com/SamorodovY/docs) - Checklist, Test-case, Bug report
+- [Testing Web applications](https://github.com/SamorodovY/web) - Exploratory and functional testing
+- [API Testing](https://github.com/SamorodovY/api) - REST and SOAP via Postman
+- [Working with databases](https://github.com/SamorodovY/database) - MySQL, NoSQL
+- [Mobile Application Testing](https://github.com/SamorodovY/mobile) - Manual test cases and bug reports
+- [Working with git and bash](https://github.com/SamorodovY/git_bash) - Scripts for QA tasks
+
+
+  
+</div>

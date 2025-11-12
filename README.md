@@ -1,12 +1,12 @@
-# Hi, my name is Yakov!
+# Привет, меня зовут Яков!
 
 ---
 
-### 👨‍💻 A little bit about me:
+### 👨‍💻 Немного обо мне:
 
-Welcome to my professional space. I am Yakov, a QA Engineer specializing in comprehensive frontend and backend testing. This page features artifacts and test case analyses related to web and mobile development that I have prepared during my courses.
+Добро пожаловать в мое профессиональное пространство. Я - Яков, инженер по контролю качества, специализирующийся на комплексном интерфейсном и серверном тестировании. На этой странице представлены артефакты и анализ тестовых примеров, связанных с веб-разработкой и разработкой для мобильных устройств, которые я подготовил во время своих курсов.
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@Yakovsam-blue?style=flat&logo=LinkedIn&logoColor=white)]() [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:samorodovykov@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@Yakovsam-blue?style=flat&logo=LinkedIn&logoColor=white)]() [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:samorodovykov@gmail.com)
 
 ---
 
@@ -82,12 +82,12 @@ Welcome to my professional space. I am Yakov, a QA Engineer specializing in comp
 ### Testing Artefacts
 
 
-- [Testing theory](https://github.com/SamorodovY/theory) - Analysis of requirements and overview of testing methods, levels, and types.
-- [Test Design Techniques](https://github.com/SamorodovY/design) - Systematization of the testing process
-- [Testing documentation](https://github.com/SamorodovY/docs) - Checklist, Test-case, Bug report
-- [Testing Web applications](https://github.com/SamorodovY/web) - Exploratory and functional testing
-- [API Testing](https://github.com/SamorodovY/api) - REST and SOAP via Postman
+- [Testing theory](https://github.com/SamorodovY/theory) - Анализ требований и обзор методов, уровней и типов тестирования.
+- [Test Design Techniques](https://github.com/SamorodovY/design) - Систематизация тестирования
+- [Testing documentation](https://github.com/SamorodovY/docs) - Чек-лист, тест-кейс, баг-репорт
+- [Testing Web applications](https://github.com/SamorodovY/web) - Исследовательское и функциональное тестирование
+- [API Testing](https://github.com/SamorodovY/api) - REST и SOAP в Postman
 - [Working with databases](https://github.com/SamorodovY/database) - MySQL, NoSQL
-- [Mobile Application Testing](https://github.com/SamorodovY/mobile) - Manual test cases and bug reports
-- [Working with git and bash](https://github.com/SamorodovY/git_bash) - Scripts for QA tasks
+- [Mobile Application Testing](https://github.com/SamorodovY/mobile) - Ручные тесты и отчеты о дефектах
+- [Working with git and bash](https://github.com/SamorodovY/git_bash) - Скрипты для задач контроля QA
 

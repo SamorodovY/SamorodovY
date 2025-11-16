@@ -6,7 +6,7 @@
 
 Добро пожаловать в мое профессиональное пространство. Я - Яков, инженер по контролю качества, специализирующийся на комплексном интерфейсном и серверном тестировании. На этой странице представлены артефакты и анализ тестовых примеров, связанных с веб-разработкой и разработкой для мобильных устройств, которые я подготовил во время своих курсов. Вы можете ознакомиться с моим [резюме](https://drive.google.com/file/d/1hYDh89nyMgGf6hqZHieG7zl_AcrUaxy9/view?usp=sharing).
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@Yakovsam-blue?style=flat&logo=LinkedIn&logoColor=white)]() [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:samorodovykov@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@Yakovsam-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yakov-samborn) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:samorodovykov@gmail.com)
 
 ---
 
